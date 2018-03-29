@@ -1,9 +1,12 @@
 <html>
 
 <head>
-  h1{
-    color:purple;
-  }
+
+  <style>
+    h1{
+      color:purple;
+    }
+  </style>
 
 </head>
 
@@ -14,10 +17,6 @@ this is my first page
   
   </h1>
 
-
-
 </body>
-
-
 
 </html>
